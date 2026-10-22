@@ -22,8 +22,8 @@ labels from multilingual radiology reports and training a multiple instance mode
 ## Tools
 
 - Languages: Python, SQL
-- Deep learning: PyTorch, torchvision, timm
-- Machine learning: scikit-learn, CatBoost, XGBoost, Hyperopt, SHAP
-- Data: pandas, NumPy, Polars, PostgreSQL
+- Deep learning: PyTorch, Torchvision, Timm
+- Machine learning: Scikit-Learn, CatBoost, XGBoost, Hyperopt, SHAP
+- Data: Pandas, NumPy, Polars, PostgreSQL
 - Visualization: Matplotlib, Seaborn, Plotly
 - Deployment: FastAPI, Render, GitHub Actions
