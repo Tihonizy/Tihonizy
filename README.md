@@ -3,7 +3,7 @@
 Machine learning and data science. I take part in Kaggle competitions on computer vision and
 tabular data and build projects end to end, from data analysis to a deployed model.
 
-Kaggle: [tihon2010](https://www.kaggle.com/tihon2010)
+Kaggle: [tihon2010](https://www.kaggle.com/tihon2010) · bronze notebook medal for Hull Tactical Market Prediction
 
 ## Projects
 
