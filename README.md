@@ -13,11 +13,12 @@ Kaggle: [tihon2010](https://www.kaggle.com/tihon2010) · bronze notebook medal f
 | [kaggle-classic-ml](https://github.com/Tihonizy/kaggle-classic-ml) | Tabular Kaggle competitions: Titanic, House Prices and Hull Tactical market prediction with feature engineering, CatBoost and Hyperopt |
 | [skillfactory-ds](https://github.com/Tihonizy/skillfactory-ds) | Data science course projects: visualization, SQL, hypothesis testing, RFM clustering and NLP |
 
-## Currently working on
+## Latest project
 
 [RSNA Knee Abnormality Detection](https://github.com/Tihonizy/kaggle-deep-learning/tree/main/rsna-knee-abnormality-detection):
 scoring 12 findings on knee MRI studies when only 58 of 4,407 studies are labelled, by extracting
 labels from multilingual radiology reports and training a multiple instance model over MRI series.
+Final result: 0.69103 macro ROC AUC on the private leaderboard.
 
 ## Tools
 
